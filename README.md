@@ -73,8 +73,8 @@ Add folders to skip (e.g., “Backups”, “Old Projects”) to keep results cl
 ---
 
 ## AI + Offline Hybrid
-- 🧠 AI Search requires internet
-- 🔌 Simple + Advanced modes work 100% offline
+-  AI Search requires internet
+-  Simple + Advanced modes work 100% offline
 
 ---
 
