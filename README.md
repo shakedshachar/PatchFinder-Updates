@@ -111,7 +111,7 @@ Cubase Integration works only with these conditions:
 
 ## Update Instructions
 
-1. Download the latest `.zip` from the [Releases tab](https://github.com/yourusername/patchfinder-updates/releases)
+1. Download the latest `.zip` from the [Releases tab](https://github.com/shakedshachar/patchfinder-updates/releases)
 2. Replace the old `PatchIO.app` in `/Applications` *(macOS)*
 3. Relaunch PatchIO — your Accessibility permissions will remain intact!
 
