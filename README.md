@@ -1,6 +1,6 @@
 # PatchIO – Smart Patches & Instruments Search App for Composers and Music Producers
 
-**Version 1.1.2 – July 12, 2025**  
+**Version 1.1.4 – July 12, 2025**  
 Created by [Shaked Shachar](https://www.shaked-music.com)
 
 PatchIO is a sleek, composer-first tool that helps you instantly find the right sound or instrument across all your sample libraries — no matter the format, plugin, or folder chaos.
