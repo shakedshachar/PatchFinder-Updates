@@ -1,4 +1,4 @@
-# PatchIO – Smart Patches & Instruments Search App for Composers
+# PatchIO – Smart Patches & Instruments Search App for Composers and Music Producers
 
 **Version 1.1.2 – July 12, 2025**  
 Created by [Shaked Shachar](https://www.shaked-music.com)
