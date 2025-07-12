@@ -119,6 +119,6 @@ Cubase Integration works only with these conditions:
 
 ## Made by a Composer, for Composers
 
-PatchIO was created by composer Shaked Shachar who works in Bleeding Fingers Music (founded by Hans Zimmer) to solve real-world frustrations in fast-paced scoring environments.
+PatchIO was created by composer Shaked Shachar who works in Bleeding Fingers Music (founded by Hans Zimmer) to solve real-world needs of composers and music producers in fast-paced environments.
 
 ---
