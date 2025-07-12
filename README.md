@@ -94,9 +94,10 @@ PatchIO automates:
 
 🛠 [Setup instructions here (Box.com)](https://app.box.com/s/ton8i1f3ygrf1pmuqcy9cgmptzoe6lwh)
 
+Cubase Integratioin works only with these conditions:
 >  macOS only  
 >  Requires Kontakt 8 in Modern View  
->  Requires Accessibility permissions enabled  
+>  Requires Accessibility permissions enabled (under Privacy & Security settings)  
 
 ---
 
